@@ -1,5 +1,5 @@
 ## Concurrent Ring Buffer
-- Course: Operating System Project
+- Course: Operating System
 - Semester: Spring 2023
 - Instructor: Dr. Hamed Khan Mirza
 
